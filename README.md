@@ -16,7 +16,7 @@ Es un simulador de Plazo Fijo. Hecho en Java con Netbeans.
 Link al video del proyecto
 ----------------------------
 
-https://youtu.be/v5qKLGymwh4?si=EjqEa9XwpDndyYnD
+https://youtu.be/_eN6jkjQ1I8?si=UQmc2xu-gmkJ5DME
 
 
 Imagenes
